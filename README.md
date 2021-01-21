@@ -8,5 +8,5 @@ Board
 
 [Bluetooth Controller](https://play.google.com/store/apps/details?id=com.gecreative.allinonearduinocontroller&hl=en&gl=US)
 
-<p align="center"><img width="80%" src="img/arm_mode.jpg /></p>
-<p align="center"><img width="80%" src="img/car_mode.jpg /></p>
+<p align="center"><img width="80%" src="img/arm_mode.jpg" /></p>
+<p align="center"><img width="80%" src="img/car_mode.jpg" /></p>
